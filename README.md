@@ -21,7 +21,7 @@ I love connecting with fellow learners and developers. Reach me at silvestaboate
 
 ## Acknowledgments
 
-TO all the open-source contributors out there, thank you for making your knowledge accessible.
+To all the open-source contributors out there, thank you for making your knowledge accessible.
 
 
 
